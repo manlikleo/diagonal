@@ -1,0 +1,35 @@
+ [
+        {
+            "title":"Exclusive Orginals",
+            "movieImg": "./originals.png"
+        },
+        {
+            "title":"Popular Films",
+            "movieImg": "./popular.png"
+        },
+        {
+            "title":"New Releases",
+            "movieImg": "./newrelease.png"
+        },
+        {
+            "title":"Family Favourites",
+            "movieImg": "./family.png"
+        },
+        {
+            "title":"Action & SCI-FI",
+            "movieImg": "./action.png"
+        },
+        {
+            "title":"Indie Films",
+            "movieImg": "./indie.png"
+        },
+        {
+            "title":"Crime & Drama",
+            "movieImg": "./crime.png"
+        },
+        {
+            "title":"Oscar Winners",
+            "movieImg": "./oscar.png"
+        }
+
+]
