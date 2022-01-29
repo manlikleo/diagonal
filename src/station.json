@@ -1,0 +1,65 @@
+[
+    {
+        "stationImg": "./discovery.png",
+        "alt":"discovery plus"
+    },
+    {
+        "stationImg": "./WideKhaliji.png",
+        "alt":"WideKhaliji"
+    },
+    {
+        "stationImg": "./starzplay.png",
+        "alt":"starz-play"
+    },
+    {
+        "stationImg": "./cartoonnet.png",
+        "alt":"cartoon network"
+    },
+    {
+        "stationImg": "./fox+.png",
+        "alt":"fox-plus"
+    },
+    {
+        "stationImg": "./tensports.png",
+        "alt":"ten sports"
+    },
+    {
+        "stationImg": "./espn.png",
+        "alt":"espn"
+    },
+    {
+        "stationImg": "./novasport.png",
+        "alt":"nova sport"
+    },
+    {
+        "stationImg": "./skysport.png",
+        "alt":"sky sport"
+    },
+    {
+        "stationImg": "./NICK.png",
+        "alt":"nickelodeon"
+    },
+    {
+        "stationImg": "./Mtv.png",
+        "alt":"MTV"
+    },
+    {
+        "stationImg": "./BBC.png",
+        "alt":"BBC"
+    },
+    {
+        "stationImg": "./itv.png",
+        "alt":"itv"
+    },
+    {
+        "stationImg": "./channel-4.png",
+        "alt":"channel-4"
+    },
+    {
+        "stationImg": "./CBS.png",
+        "alt":"CBC"
+    }
+    
+
+
+]

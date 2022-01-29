@@ -11,3 +11,10 @@
   background: linear-gradient(360deg, #000000 9.09%, rgba(0, 0, 0, 0) 89.77%);
 
 }
+
+.station-bg{
+  background:radial-gradient(50% 50% at 50% 50%, rgba(31, 31, 31, 0.7695) 0%, rgba(22, 22, 22, 0.95) 100%), url(../public/live-TV-Streaming.jpeg);
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

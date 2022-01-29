@@ -7,7 +7,8 @@ module.exports = {
       colors:{
         primary: '#FFE300',
         ideas:'#333333',
-        grad: '#222222'
+        grad: '#222222',
+        social:'#727272'
       }
 
     },
