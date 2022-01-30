@@ -10,7 +10,7 @@ import Footer from './Footer';
 
 function Homepage (){
     return (
-        <div>
+        <div className='w-full overflow-hidden'>
         <Navbar/>
         <Hero/>
         <FirstSection/>
